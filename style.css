@@ -238,8 +238,8 @@ footer{
 /*API*/
 #meteo{
     position: fixed;
-    top: 100px;
-    left: 20px;
+    top: 400px;
+    right: 20px;
     background-color: #969EE1;
     border-radius: 10px;
     padding: 1rem;
