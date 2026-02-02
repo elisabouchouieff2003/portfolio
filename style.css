@@ -234,3 +234,17 @@ footer{
     margin-top: 7rem;
     padding: 1rem;
 }
+
+/*API*/
+#meteo{
+    position: fixed;
+    top: 100px;
+    left: 20px;
+    background-color: #969EE1;
+    border-radius: 10px;
+    padding: 1rem;
+    width: 180px;}
+
+#meteo h2{
+    font-size: 1.3rem;
+}
